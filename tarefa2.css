@@ -1,0 +1,47 @@
+body{
+	background-color:#259AE8;
+	color:black;
+}
+
+h1{
+	text-align:center;
+	color:#F67C20;
+}
+
+h2{
+	text-align:center;
+	color:#F67C20;
+}
+
+.paragrafo1{
+	text-align:center;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+img.foto{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.paragrafo2{
+	text-align:center;
+	font-size:16px;
+	font-family:sans-serif;
+}
+
+h3{
+	text-align:center;
+	color:#F67C20;
+	font-size:20px;
+}
+
+.lista{
+	text-align:center;
+	color:#56188F;
+}
+
+.referencia{
+	text-align:center;
+}
