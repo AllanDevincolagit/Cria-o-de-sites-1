@@ -1,0 +1,41 @@
+html , body{
+    background-color:burlywood;
+    
+}
+
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.container div{ /*Não pode haver virgula na classe container !!! */
+    height:300px;
+    width:300px;
+    margin:10px;
+    padding:10px;
+
+}
+
+.container div img{
+    height:300px;
+    width:300px;
+}
+
+h1{
+    text-align:center;
+}
+
+.header , img{
+    height:150px;
+}
+
+nav a{
+    color:black;
+    display:inline-block;
+    margin-left:10px;
+}
+
+nav a:hover{
+    font-weight:bold;
+}
