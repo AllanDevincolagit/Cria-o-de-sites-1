@@ -1,0 +1,25 @@
+body{
+	background-color:#2E86F5;
+	color:#EBB53E;
+}
+
+img{
+	height:250px;
+	width:1300px;
+}
+
+.topo{
+	text-align:center;
+}
+
+.caixa1{
+	background-color:#63AE6A;
+	color:black;
+	width:300px;
+	display:inline-block;
+}
+
+.caixa1 img{
+	width:300px;
+	margin: 0,5%;
+}
